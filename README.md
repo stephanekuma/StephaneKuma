@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Stéphane%20Kossi%20KUMA&fontSize=70" />
+  <a href="#"><img width="40%" height="auto" src="programming.svg"/></a>
 </p>
 
 <p align="center">
-  <a href="#"><img width="40%" height="auto" src="programming.svg"/></a>
+  <img src="https://miro.medium.com/v2/resize:fit:1360/0*1tmQJdANsZx5iHvT" width="100%" alt="Developer Banner" />
 </p>
 
 <h3 align="center">Développeur Full Stack Web & Mobile | 6+ ans d'expérience 🚀</h3>
