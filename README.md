@@ -14,12 +14,12 @@
 
 ### 👨‍💻 À propos de moi
 
-[cite_start]Passionné et rigoureux, je me spécialise dans la conception et le déploiement de solutions Web et Mobiles robustes[cite: 12]. [cite_start]Actuellement **Consultant Développeur Full Stack** à l'**Agence Togo Digital (ATD)** [cite: 19][cite_start], j'interviens sur des plateformes nationales critiques[cite: 20].
+Passionné et rigoureux, je me spécialise dans la conception et le déploiement de solutions Web et Mobiles robustes. Actuellement **Consultant Développeur Full Stack** à l'**Agence Togo Digital (ATD)**, j'interviens sur des plateformes nationales critiques.
 
-- [cite_start]🔭 **En ce moment :** Je développe des architectures backend avec **Nest.js** et des solutions mobiles avec **Flutter**[cite: 13, 20].
-- [cite_start]🛠 **Expertise :** Spécialisé en **Laravel**, **Vue.js** et **Flutter**[cite: 13].
-- [cite_start]💡 **Approche :** Adepte de la **Clean Architecture** et des méthodologies **Agile/Scrum**.
-- [cite_start]🌍 **Langues :** Français (Courant) et Anglais (Intermédiaire).
+- 🔭 **En ce moment :** Je développe des architectures backend avec **Nest.js** et des solutions mobiles avec **Flutter**.
+- 🛠 **Expertise :** Spécialisé en **Laravel**, **Vue.js** et **Flutter**.
+- 💡 **Approche :** Adepte de la **Clean Architecture** et des méthodologies **Agile/Scrum**.
+- 🌍 **Langues :** Français (Courant) et Anglais (Intermédiaire).
 
 ---
 
@@ -46,6 +46,6 @@
 ---
 
 ### 📫 Me contacter
-- [cite_start]💼 **LinkedIn :** [linkedin.com/in/stéphane-kossi-kuma](https://linkedin.com/in/stéphane-kossi-kuma) [cite: 9]
-- [cite_start]📧 **Emails :** [kumastephane@gmail.com](mailto:kumastephane@gmail.com) ou [issok.amuk@gmail.com](mailto:issok.amuk@gmail.com) [cite: 7]
-- [cite_start]📱 **WhatsApp :** [+228 93 41 36 39](https://wa.me/22893413639) [cite: 8]
+- 💼 **LinkedIn :** [linkedin.com/in/stéphane-kossi-kuma](https://linkedin.com/in/stéphane-kossi-kuma)
+- 📧 **Emails :** [kumastephane@gmail.com](mailto:kumastephane@gmail.com) ou [issok.amuk@gmail.com](mailto:issok.amuk@gmail.com)
+- 📱 **WhatsApp :** [+228 93 41 36 39](https://wa.me/22893413639)
