@@ -38,9 +38,9 @@ Passionné et rigoureux, je me spécialise dans la conception et le déploiement
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StephaneKuma&show_icons=true&theme=radical&hide_border=true" alt="Stats de Stéphane" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stephanekuma&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Stats de Stéphane" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneKuma&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanekuma&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
 ---
