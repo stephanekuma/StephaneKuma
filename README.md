@@ -1,73 +1,51 @@
 <p align="center">
-  <a href="#"><img width="60%" height="auto" src="programming.svg"/></a>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Stéphane%20Kossi%20KUMA&fontSize=70" />
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/st%C3%A9phane-kuma-05b116167/">Stéphane Kuma</a> - aka Stekos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Développeur Full Stack Web & Mobile | 6+ ans d'expérience 🚀</h3>
 
-## About me
-
-- 💻 I'm a fullstack developer
-- 🔭 I’m currently working on STK SMS project
-- 🌱 I’m currently learning and perfecting my knowledge of Flutter
-- 👯 I’m looking to collaborate on all types of projects that could broaden my horizon
-- 💬 Ask me about: ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white) 
-- 📫 You can reach me directly on <a href="https://wa.me/22893413639">WhatsApp</a>
-
-
-## Contact me
-
-<p>
-  <a href="https://tg.linkedin.com/in/st%C3%A9phane-kuma-05b116167/">
-    <img src="https://img.shields.io/badge/Stéphane%20Kuma-blue?style=social&logo=linkedin&labelColor=blue" />
-  </a>
-  <a href="mailto:kumastephane@gmail.com?">
-    <img src="https://img.shields.io/badge/kumastephane%40gmail.com-red?&style=social&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://wa.me/22893413639">
-    <img src="https://img.shields.io/badge/WhatsApp-green?&style=social&logo=whatsapp&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/stéphane-kossi-kuma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kumastephane@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/22893413639"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
+---
 
-## Languages
+### 👨‍💻 À propos de moi
 
-![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-red?style=flat&logo=css&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=html&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=html&logoColor=white)
-![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=html&logoColor=white)
+[cite_start]Passionné et rigoureux, je me spécialise dans la conception et le déploiement de solutions Web et Mobiles robustes[cite: 12]. [cite_start]Actuellement **Consultant Développeur Full Stack** à l'**Agence Togo Digital (ATD)** [cite: 19][cite_start], j'interviens sur des plateformes nationales critiques[cite: 20].
 
+- [cite_start]🔭 **En ce moment :** Je développe des architectures backend avec **Nest.js** et des solutions mobiles avec **Flutter**[cite: 13, 20].
+- [cite_start]🛠 **Expertise :** Spécialisé en **Laravel**, **Vue.js** et **Flutter**[cite: 13].
+- [cite_start]💡 **Approche :** Adepte de la **Clean Architecture** et des méthodologies **Agile/Scrum**.
+- [cite_start]🌍 **Langues :** Français (Courant) et Anglais (Intermédiaire).
 
-## Frameworks
+---
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=html&logoColor=white)
-![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white)
+### 🛠 Stack Technique
 
+| Catégorie | Compétences |
+| :--- | :--- |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Bases de données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Outils & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6A00?style=flat-square) |
 
-## My skills 😛
+---
 
-![](https://github-readme-stats.vercel.app/api?username=StephaneKuma&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=StephaneKuma&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneKuma&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 📈 Statistiques GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StephaneKuma&show_icons=true&theme=radical&hide_border=true" alt="Stats de Stéphane" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneKuma&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" />
+</p>
 
+---
 
-
-<!--
-**StephaneKuma/StephaneKuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Me contacter
+- [cite_start]💼 **LinkedIn :** [linkedin.com/in/stéphane-kossi-kuma](https://linkedin.com/in/stéphane-kossi-kuma) [cite: 9]
+- [cite_start]📧 **Emails :** [kumastephane@gmail.com](mailto:kumastephane@gmail.com) ou [issok.amuk@gmail.com](mailto:issok.amuk@gmail.com) [cite: 7]
+- [cite_start]📱 **WhatsApp :** [+228 93 41 36 39](https://wa.me/22893413639) [cite: 8]
